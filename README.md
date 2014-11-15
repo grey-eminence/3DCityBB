@@ -27,7 +27,7 @@ Note that the models for building streets are available in the Unity Asset Store
 
 ##### Buildings #####
 
-<img src="https://raw2.github.com/grey-eminence/3DCityBB/master/Models/Buildings/House-Blue.jpg" width="130px"/> &#32;
-<img src="https://raw2.github.com/grey-eminence/3DCityBB/master/Models/Buildings/LongHouse.jpg" width="130px"/> &#32;
-<img src="https://raw2.github.com/grey-eminence/3DCityBB/master/Models/Buildings/TriangleBlock.jpg" width="130px"/> &#32;
-<img src="https://raw2.github.com/grey-eminence/3DCityBB/master/Models/Buildings/SquareBlock.jpg" width="130px"/> &#32;
+<img src="https://raw.githubusercontent.com/grey-eminence/3DCityBB/master/Models/Buildings/House-Blue.jpg" width="130px"/> &#32;
+<img src="https://raw.githubusercontent.com/grey-eminence/3DCityBB/master/Models/Buildings/LongHouse.jpg" width="130px"/> &#32;
+<img src="https://raw.githubusercontent.com/grey-eminence/3DCityBB/master/Models/Buildings/TriangleBlock.jpg" width="130px"/> &#32;
+<img src="https://raw.githubusercontent.com/grey-eminence/3DCityBB/master/Models/Buildings/SquareBlock.jpg" width="130px"/> &#32;
